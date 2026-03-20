@@ -1,2 +1,3 @@
-# simple-web-app-i4um
-A repository to test GitHub automation for issue management
+# Simple Web App I4Um
+
+A repository to test GitHub automation for issue management.
